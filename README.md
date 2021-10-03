@@ -1,16 +1,22 @@
-### Hi there 👋
+## 14 Year Old Full-Stack Developer
 
-<!--
-**VoidStoneDev/VoidStoneDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I make minecraft plugins, web apps, games, etc..
 
-Here are some ideas to get you started:
+- I'm currently working on: The VoidGroup site.
+- Ask me about: *Anything programming related!*
+- How to reach me on Discord: VoidStone#6733
+- Pronouns: She/her||they/them
+- Fun fact: You're probably using some of my code if you run a Spigot or PaperMc server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can code in these languages:
+> - C#
+> - C++
+> - Java
+> - Javascript
+> - Python
+> - Go
+> - Kotlin
+> - Groovy
+> - Objective C
+> - C
+> - Microsoft SQL
