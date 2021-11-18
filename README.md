@@ -12,6 +12,8 @@
 - Pronouns: She/her || they/them
 - Fun fact: You're probably using some of my code if you run a Spigot or PaperMc server
 
+`LGBTQIA+ (🏳️‍⚧️)`
+
 I code in these languages:
 > - C#
 > - C++
