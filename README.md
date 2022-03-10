@@ -3,9 +3,6 @@
 ### I make minecraft plugins, web apps, games, etc..
 
 
-#### Quote: `Why use a framework, if you can make it yourself, but better?`
-
-
 - I'm currently working on: The VoidGroup site.
 - Ask me about: *Anything programming related!*
 - How to reach me on Discord: [VoidGroup Development](https://discord.gg/JvNAeVnPFz)
